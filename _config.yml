@@ -4,6 +4,15 @@ collections:
     methods:
         output: true
         permalink: /methods/:path/
+    process:
+        order:
+          - index.md
+          - explore.md
+          - define.md
+          - make.md
+          - validate.md
+        output: true
+        permalink: /process/:path/
 permalink: title
 gems:
     - jekyll-minifier

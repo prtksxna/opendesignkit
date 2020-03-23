@@ -1,0 +1,23 @@
+---
+layout: default
+title: Open Design Methods
+type: home
+teaser: listed alphabetically
+---
+
+<div class="page__parent-title">Methods</div>
+<h1 class="page__title">{{page.title}}</h1>
+
+<!-- TODO Need teaser class -->
+<p class="page__teaser"><em>{{page.teaser}}</em></p>
+
+<ul class="method-list">
+  {% assign item = site.methods |  sort: "title" %}
+  {% for item in item %}
+  <li class="method-list-item {{ item.category }}">
+    <h2 class="method-list-hed">{{ item.title }}</h2>
+    <p class="method-list-desc">{{ item.teaser }}</p>
+    <a class="method-list-link" href="{{ item.url }}">Read more</a>
+  </li>
+  {% endfor %}
+</ul>
