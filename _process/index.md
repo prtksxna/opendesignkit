@@ -1,5 +1,5 @@
 ---
-layout: methods
+layout: process
 type:
 title: Open Design Process
 teaser: A distributed team can do great design - here's how.
