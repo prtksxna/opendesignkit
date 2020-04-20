@@ -13,8 +13,10 @@ type: method
     {% assign methods = site.methods |  where: 'category', page.category %}
     {% for method in methods %}
     <li class="method-list-item method-list-item--{{ method.category }}">
-      <h2 class="method-list-hed">{{ method.title }}</h2>
-      <p class="method-list-desc">{{ method.teaser }}</p>
+      <div class="method-list-content">
+        <h2 class="method-list-hed">{{ method.title }}</h2>
+        <p class="method-list-desc">{{ method.teaser }}</p>
+      </div>
       <a class="method-list-link" href="{{ method.url }}">Read more</a>
     </li>
     {% endfor %}

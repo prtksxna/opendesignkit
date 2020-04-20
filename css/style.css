@@ -6,18 +6,35 @@
   list-style: none;
   padding: 0;
   margin-top: 4rem;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .method-list-item {
   display: inline-block;
-  /* float: left; */
   vertical-align: top;
-  width: 32%;
+  width: 33%;
   padding-right: 3%;
   border-top: 1px solid #eaecf0;
   margin: 0;
   margin-top: 0 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
+
+@media ( max-width: 768px ) {
+  .method-list-item {
+    width: 50%;
+  }
+}
+
+@media ( max-width: 480px ) {
+  .method-list-item {
+    width: 100%;
+  }
+}
+
 
 .method-list-hed {
   border: none;
