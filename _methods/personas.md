@@ -12,22 +12,22 @@ tools:
     - <a href="https://github.com/bocoup/opendesignkit/blob/master/resource-materials/persona-worksheet.png"> Persona printable worksheet</a>
 ---
 
-## Why do it:
+## Why do it
 
 Personas give us a person to connect with, someone who has goals for using the product, ensuring human centered design.
 
-## When to do it:
+## When to do it
 
 Ideally they are used after [interviews](/methods/interviews/) and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
 
-## Who’s involved:
+## Who’s involved
 
 Designers and stakeholders.
 
-## Time estimate:
-Small (1-2 hours)
+## Time estimate
+Small (1 - 2 hours)
 
-## One way to do it:
+## One way to do it
 
 
 1. A persona is a representation of the needs, thoughts and goals of the target user.  Think of a persona as your typical or ideal user - who do you see using your app? It helps prevent you from generalizing all users into one bucket and thinking that everyone has the same needs and goals. It also prevents you from falling into the pattern of thinking that you are going to experience the application the same way that other users will.  Personas are designed to help you to empathize with individuals who might use the app, so think of them more as a bio that you might see on a social website than a job description.
@@ -60,7 +60,7 @@ Small (1-2 hours)
 
 ---
 
-## Examples:
+## Examples
 * [The Lyra Project](https://github.com/vega/lyra/search?q=persona&type=Issues&utf8=%E2%9C%93)
 * [The Coral Project](https://coralproject.net/meet-our-users/)
 * [Firefox User Types in North America](https://blog.mozilla.org/ux/2013/08/firefox-user-types-in-north-america/)
@@ -69,7 +69,7 @@ Small (1-2 hours)
 
 ---
 
-## Learn More:
+## Learn More
 * [Using Research Tools in Your Design Practice](https://bocoup.com/weblog/using-research-tools-in-your-design-practice-negotiating-to-actually-use-them)
 * [18F Design Method: Personas](https://methods.18f.gov/personas/)
 * [Perfecting Your Personas](https://articles.uie.com/perfecting_personas/)

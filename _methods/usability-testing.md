@@ -13,24 +13,24 @@ tools:
 ---
 
 
-## Why do it:
+## Why do it
 
 Usability tests allow you to validate your assumptions about the functionality of your product. Testing will help you to answer the question “how might the user interact with the design?” as well as “can the user accomplish their goals?”
 
-## When to do it:
+## When to do it
 
 When your prototype’s hypothesis is testable, prepare a usability test session. During the course of iterative design, this will most likely happen a handful of times. It’s perfectly acceptable to test an incomplete prototype or test lower fidelity designs.
 
-## Who’s involved:
+## Who’s involved
 
 Designers, stakeholders, and recruited users who match your persona profiles.
 
 
-## Time estimate:
+## Time estimate
 1 hour - script writing
 1 hour - facilitating the test
 
-## One way to do it:
+## One way to do it
 1. Start by identifying what you want to test. You need to decide a) what is the user’s goal and b) how might we create a way to test that goal. This can be done through real time time collaboration in a video conference, using user personas, journey maps, and flows as support material.
 
 
@@ -69,12 +69,12 @@ Designers, stakeholders, and recruited users who match your persona profiles.
 
 ---
 
-## Examples:
+## Examples
 * [How to prepare a framework for your remote usability test](http://www.userzoom.com/uxguide/how-to-prepare-a-framework-for-your-remote-usability-test/)
 
 ---
 
-## Learn More:
+## Learn More
 * [Tips on interviewing](http://opendesignkit.org/methods/interviews/)
 * [Tips on collecting feedback](http://opendesignkit.org/methods/feedback-session/)
 * [A summative explanation on usability testings and how to conduct evaluations](http://www.usabilitybok.org/summative-usability-testing)

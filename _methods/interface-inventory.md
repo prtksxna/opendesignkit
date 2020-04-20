@@ -1,36 +1,36 @@
 ---
 layout: methods
-type: 
+type:
 title: Interface Inventory
 category: define
 teaser: Break designs into components, creating a catalogue for use in code.
 tools:
   - Video conferencing app
-  - Screensharing app 
+  - Screensharing app
   - View of site or application
   - File storage space
 
 
 ---
 
-## Why do it:
+## Why do it
 
 It brings consistency to both the visual design and will aid in making a style guide or pattern library.
 
 
-## When to do it:
+## When to do it
 
 After visual design has been started and the designer feels comfortable with moving towards implementation. This can also be done once something is implemented, if you are looking to refactor and clean up design elements as well as the CSS and markup.
 
-## Who’s involved:
+## Who’s involved
 
 Designers, Stakeholders and front-end engineers.
 
 ## Time estimate
 
-Medium (3- 6 hours)
+Medium (3 - 6 hours)
 
-## One way to do it:
+## One way to do it
 
 1. Start with a page/screen/view of the site or application or with a print out of the visual design. Begin pulling out visual elements to deconstruct the layout. If using paper printouts, cut them up into elements and then scan and save them in a shared online space. If digitally, screenshot them and put them in a collaborative space like Google Drive, pasting images into a document.
 
@@ -42,7 +42,7 @@ Medium (3- 6 hours)
 
 ---
 
-## Learn more:
+## Learn more
 
 * [Brad Frost’s Interface Inventory](http://bradfrost.com/blog/post/interface-inventory/)
 * [From Pages to Patterns](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)

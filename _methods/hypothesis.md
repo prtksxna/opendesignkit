@@ -10,22 +10,22 @@ tools:
     - RealTimeBoard
 ---
 
-## Why do it:
+## Why do it
 
  Defining our solutions through a hypothesis framework allows us to acknowledge that we are making assumptions and testing those assumptions through our prototypes validates our hunches.
 
-## When to do it:
+## When to do it
 
 Create hypotheses before you begin prototyping in any form. Hypotheses are a framework to help you to articulate what it is that you are going to make.
 
-## Who’s involved:
+## Who’s involved
 
 Designers, stakeholders and engineers
 
-## Time estimate:
+## Time estimate
 Small (30 minutes - 1 hour)
 
-## One way to do it:
+## One way to do it
 
 1. Put your personas, user journeys and journey maps to work by identifying the user goals. Decide a) what's the user’s goal and b) how might we create a way to test that goal. In this example, we used RealTimeBoard to create a few prompts for participants to collaborate on in a video conference for Open Design Kit.
 
@@ -58,7 +58,7 @@ Small (30 minutes - 1 hour)
 
     We had participants on an Open Design Kit video conference call collaborate to come up with as many different hypotheses as they could think of.
 
-4. This hypothesis that should be included in the design documentation for reference throughout the course of the project. 
+4. This hypothesis that should be included in the design documentation for reference throughout the course of the project.
 
 
     For Open Design Kit, we moved the hypotheses into a GitHub wiki and added one more prompt:
@@ -74,12 +74,12 @@ Small (30 minutes - 1 hour)
 
 ---
 
-## Examples:
+## Examples
 
 * [Open Design Kit Hypotheses ](https://github.com/bocoup/opendesignkit/wiki/Hypotheses)
 
 ---
 
-## Learn More:
+## Learn More
 * [How to Implement Hypothesis Driven Development](https://www.thoughtworks.com/insights/blog/how-implement-hypothesis-driven-development)
 * [Hypothesis Driven UX Design](https://medium.theuxblog.com/hypotheses-driven-ux-design-c75fbf3ce7cc#.cd8muop0q)

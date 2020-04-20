@@ -11,23 +11,23 @@ tools:
 ---
 
 
-## Why do it:
+## Why do it
 
 When designing products, design values help guide an organization or team to make appropriate decisions, whether it's filtering opportunities, prioritizing features, or ultimately defining success.
 
-## When to do it:
+## When to do it
 
 Use this at the beginning of a project when you need a "north star" to guide everyone toward a favorable outcome.
 
-## Who’s involved:
+## Who’s involved
 
 Designers, engineers, stakeholders, and anyone else who cares about design.
 
-## Time estimate:
+## Time estimate
 
 Medium (3 - 6 hours)
 
-## One way to do it:
+## One way to do it
 
 1. Prior to setting up the workshop date, setup and stage a [BoardThing](http://boardthing.com/main) board with items like an Agenda and Prompts. BoardThing offers the ability to collapse lists, which gives facilitators the ability to keep the focus of participants.
 
@@ -54,7 +54,7 @@ Medium (3 - 6 hours)
 
 ---
 
-## Learn More:
+## Learn More
 
 * [Experience Design Principles](https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/)
 * [Nordstrom UX Principles](http://www.justinmarxdesign.com/nordstrom-ux-principles)

@@ -10,21 +10,21 @@ tools:
   - Collaborative text editor
 ---
 
-## Why do it:
+## Why do it
 
 Working as a lone wolf designer can be dangerous because you are relying on your own assumptions, background and expertise to make decisions. A feedback session shares the risk and responsibility.
 
-## When to do it:
+## When to do it
 
 It's a tricky thing to decide when to run a feedback session. In general, when working on a project, you should routinely be running feedback sessions.  
 
 
-## Who’s involved:
+## Who’s involved
 
 Try to get as many stakeholders and product team members as you can in the room. Having a feedback session for just the "design team" can be effective for technique based decisions, but the goal is to gather a set of diverse voices to inform your work. Engineers can be effective feedback participants because it gives them a chance to think about the problem space well before implementation begins.
 
 
-## One way to do it:
+## One way to do it
 
 1. Schedule and announce your feedback session in advance. A feedback or critique meeting can be mentally taxing for all participants, so plan for it to take no longer than 90 minutes if anyone is not co-located. The guest list is the core team working on the project. All participants are permitted to invite guests. The session will happen in a place that allows for screen sharing and video chatting ([Appear.in](https://appear.in/) or Google Hangouts) as well as within a text editor (Google Docs or [Etherpad](http://etherpad.org/)). Having multiple data points for collecting feedback will help all participants. Visual cues help participants to read body language and while written feedback can documents next steps or any decisions made.
 
@@ -52,6 +52,6 @@ Try to get as many stakeholders and product team members as you can in the room.
 
 ---
 
-## Learn More:
+## Learn More
 
 * [Actionable Feedback](https://jess.makes.org/thimble/MTEzMjMzMTI2NA==/actionable-feedback)

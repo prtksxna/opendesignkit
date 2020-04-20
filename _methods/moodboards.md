@@ -9,24 +9,24 @@ tools:
   - Image editing software
 ---
 
-## Why do it:
+## Why do it
 
 Mood Boards start a conversation with stakeholders about what a project might look like.
 
 
-## When to do it:
+## When to do it
 
 Right after the [Experience Attributes](/methods/experience-attributes/) activity and before starting work on any type of visual studies (aka style tiles and mockups).
 
-## Who’s involved:
+## Who’s involved
 
 Designers and stakeholders. This could be done in collaboration with the stakeholders as part of the [Visual Design Workshop](/methods/visual-design-workshop/) or as an activity that the designer(s) work on separately and present to the stakeholders before moving on to the visual studies.
 
-## Time estimate:
+## Time estimate
 
-Medium (3 -6 hours)
+Medium (3 - 6 hours)
 
-## One way to do it:
+## One way to do it
 
 1. Using the words gathered from the [Experience Attributes](/methods/experience-attributes), start searching the web for images that represent feelings associated with those words. The images can be poetic (example: a rainbow or a flower) or more literal (example: a GUI).
 
@@ -41,11 +41,11 @@ Medium (3 -6 hours)
 
 ---
 
-## Examples:
+## Examples
 
 * [Mood Boards on Pinterest](https://www.pinterest.com/search/pins/?q=moodboard%20design&rs=guide&0=design%7Cguide%7Cword%7C0&add_refine=design%7Cguide%7Cword%7C0)
 
 ---
 
-## Learn More:
+## Learn More
 * [Mood Boards: Why and How To Create Them](https://creativemarket.com/blog/2015/07/03/mood-boards-why-and-how-to-create-them)

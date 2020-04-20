@@ -9,23 +9,23 @@ tools:
  - Image editing and compositing app
 ---
 
-## Why do it:
+## Why do it
 
 It helps come to decisions about look and feel for visual design while not getting wrapped up in page layouts, since things are responsive these days.
 
-## When to do it:
+## When to do it
 
 Style tiles are for when a [Mood Board](/methods/moodboards/) is too vague and a comp is too literal. Style tiles establish a direct connection with interface elements without defining layout. They are useful to design towards the beginning of your visual design work and can be done as part of the [Visual Design Workshop](/methods/visual-design-workshop/).
 
-## Who’s involved:
+## Who’s involved
 
 Designers, Stakeholders and front-end engineers.
 
 
 ## Time estimate:
-Medium (3- 6 hours)
+Medium (3 - 6 hours)
 
-## One way to do it:
+## One way to do it
 
 1. Listen to get a sense of what the stakeholder is looking for in terms of their product or project. This can be done via [interviews](/methods/interviews/), reviewing a design brief, or a video conference call specifically set up for this discussion. While wireframes aren’t necessary to create a tile, they can help inform what elements to incorporate. At this stage, you are trying to determine what user interface components will be crucial to your design.
 
@@ -40,12 +40,12 @@ Medium (3- 6 hours)
 
 ---
 
-## Examples:
+## Examples
 
 * [Open Style Tiles](https://github.com/abbylarner/open-tiles)
 
 ---
 
-## Learn More:
+## Learn More
 
 * [Style Tiles](http://styletil.es)

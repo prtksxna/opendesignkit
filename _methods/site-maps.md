@@ -11,7 +11,7 @@ tools:
  - Text editor
 ---
 
-## Why do it:
+## Why do it
 
 
 We use a site map to define the scope of a project and show how its various pieces connect. Site maps are a conversation starter. At a basic level, they are great for simply communicating what we mean when we say "the project", and help identify and address inconsistencies in this definition amongst stakeholders.
@@ -20,21 +20,21 @@ With defining the project, the scope of the project is also defined. The site ma
 
 The site map also captures the flow of how your users will move through the project's content. We focus on showing "central" or "primary" flows in the map. Most likely, there will be alternative paths users will take, but in the site map we want to show the flows the design will work toward encouraging. Keep it simple, and whittle down the flow till you have something you can easily communicate and converse about.
 
-## When to do it:
+## When to do it
 
 Site maps are created after you've investigated the purpose of your project, with tools like [User Interviews](/methods/interviews/), and you are ready to start mocking things up. It can be used as an alternative to, or in conjunction with, [Journey Maps](/methods/journey-maps/). Journey maps provide a deep dive on a specific flow, while site maps provide a satellite view of where that journey took place in the context of the entire system.
 
 
-## Who’s involved:
+## Who’s involved
 
 Designers, developers, and stakeholders. This should be presented as a proposal to stakeholders over a video conference, and collaboratively iterated on as the project becomes more well defined.
 
 
-## Time estimate:
+## Time estimate
 
 Small ( 1- 2 hours); for an initial site map.
 
-## One way to do it:
+## One way to do it
 
 1. Collect your user interviews and other research into the purpose and scope of the project. Go through these documents and pull out the "things" the project will be made up of. "Things" are usually nouns mentioned in multiple locations. You can think of them as the "entities" that the project must incorporate in order to be a success. This can be collected in a text editor or directly into the image editing application.
 
@@ -52,5 +52,5 @@ Small ( 1- 2 hours); for an initial site map.
 
 ---
 
-## Learn More:
+## Learn More
  * [The Secret Lives of Sitemaps](https://medium.com/why-what-what-s-meta-matters/the-secret-lives-of-sitemaps-be47bbecd886#.1si0se4uk)

@@ -11,24 +11,24 @@ tools:
  - Mapping app
 ---
 
-## Why do it:
+## Why do it
 
 We use journey mapping as an exercise for determining a list of requirements for our project as well as uncovering hidden issues. It also encourages the team to empathize with users.
 
-## When to do it:
+## When to do it
 
 Journey maps are created after you've made [personas](/methods/personas/) for your project.
 
 
-## Who’s involved:
+## Who’s involved
 
 Designers and stakeholders. These should be done collaboratively. The bonus of collaborating is that valuable conversations arise through the process of co-authoring the journey maps. They *can* also be done solo as an exercise to work through design issues.
 
-## Time estimate:
+## Time estimate
 
-Small (1 -2 hours per persona)
+Small (1 - 2 hours per persona)
 
-## One way to do it:
+## One way to do it
 
 
 1. Review the persona's goals, values, and what makes them stressed. (If you haven’t made a persona, and are short on time, try to identify a typical user for your project.)
@@ -43,10 +43,10 @@ Small (1 -2 hours per persona)
 
 ---
 
-## Examples:
+## Examples
 * [The Lyra Project](https://github.com/vega/lyra/search?q=persona&type=Issues&utf8=%E2%9C%93)
 
-## Learn More:
+## Learn More
 * [All You Need To Know about Customer Journey Mapping ](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/)
 * [Using Customer Journey  to Improve Customer Experience](https://hbr.org/2010/11/using-customer-journey-maps-to)
 * [A Beginners' Guide to User Journey Mapping](https://www.appcues.com/blog/user-journey-map)

@@ -10,23 +10,23 @@ tools:
 
 ---
 
-## Why do it:
+## Why do it
 
 Style Guides are  helpful for keeping design consistent and helping to get through a build quickly. If you do this at the beginning of the implementation process, you can then have a library of reusable design objects that will be helpful to build out your pages.
 
 
-## When to do it:
+## When to do it
 
 After you've got some visual design done, possibly you've done [Style Tiles](/methods/style-tiles/) and you are moving on to some mockups. It's helpful to have the guide be one of the first things you do after visual design is starting to formulate and feel good.
 
-## Who’s involved:
+## Who’s involved
 
 Designers and Front End Developers
 
-## Time estimate:
+## Time estimate
 Large (8+ hours)
 
-## One way to do it:
+## One way to do it
 
 1. Take the visual designs and make an [inventory](/methods/interface-inventory/) of all the elements, looking for repeated things such as buttons, type sizing, and components (or modules) that you reuse.
 
@@ -38,7 +38,7 @@ Large (8+ hours)
 
 ---
 
-## Examples:
+## Examples
 
 * [Code for America](http://codeforamerica.clearleft.com)
 * [US Design Standards](https://standards.usa.gov)
@@ -49,7 +49,7 @@ Large (8+ hours)
 
 ---
 
-## Learn More:
+## Learn More
 
 * [From Patterns to Pages](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)
 * [Creating Style Guides](http://alistapart.com/article/creating-style-guides)

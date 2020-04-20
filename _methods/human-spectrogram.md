@@ -11,24 +11,24 @@ tools:
 
 ---
 
-## Why do it:
+## Why do it
 
 This is an icebreaker activity that helps everyone to see where they stand on any particular topic.
 
 
-## When to do it:
+## When to do it
 
 This activity is ideal to do when lots of people have different opinions on a given topic. The activity will help you to find a shared vocabulary and identify future conversation topics.
 
-## Who’s involved:
+## Who’s involved
 
 Anyone who should be collaborating with each other.
 
-## Time estimate:
+## Time estimate
 
 Small (1 - 2 hours)
 
-## One way to do it:
+## One way to do it
 
 1. Explain that the [Trello](https://trello.com/) board is a fluid, interactive space. It's like a thermometer or spectrogram. Say that you will be making some intentionally controversial statements. On one column is where people should put their name if they strongly agree and the other is if they strongly disagree. If they are feeling middle ground, place your name in the middle of the board. This entire activity will be done in Trello, while participants join in on either a call (via a tool such as [Google Hangouts](https://hangouts.google.com/) or [Appear.in](https://appear.in/)) or a text based channel (via a tool such as [Slack](https://slack.com/) or [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)).
 
@@ -52,7 +52,7 @@ Small (1 - 2 hours)
 
 ---
 
-## Learn More:
+## Learn More
 
 * [Remote-first lesson plan development](https://bocoup.com/weblog/remote-first-lesson-plan-development)
 * [Human Spectrogram by Aspiration Tech](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Spectrogram)

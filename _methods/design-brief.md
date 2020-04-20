@@ -9,26 +9,26 @@ tools:
  - Design Brief Template
 ---
 
-## Why do it:
+## Why do it
 
 It helps the entire project or product team to align on the deliverable(s) and any factors that might contribute to the satisfactory conclusion of work.
 
-## When to do it:
+## When to do it
 
 A design brief is a document that you create after you’ve done some exploration, but before you start to make any prototypes, because it’s formalizing findings and possible design approaches.
 
-## Who’s involved:
+## Who’s involved
 
 Designers, stakeholders, and members of the product team
 
 The audience for this document is anyone who has to implement, understand, or reference your design to solve the problem set that the project or product requires. Typically, this is the project client. While the client maybe familiar with the project, the report is still written as though the client is new to the project because that is the best way to tell the whole story.
 
 
-## Time estimate:
+## Time estimate
 1 hour to write  
 2 - 5 hours doing research
 
-## One way to do it:
+## One way to do it
 
 1. Before you start writing the brief, do some research to find out a) what’s the problem that you are trying to solve? and b) who is it a problem for?  This can be done via stakeholder interviews, a questionnaire that you create in advance and/or user behavior observation.
 
@@ -65,7 +65,7 @@ The audience for this document is anyone who has to implement, understand, or re
 
 ---
 
-## Examples:
+## Examples
 - [Open Design Kit design brief template](https://docs.google.com/document/d/1HWWb39_3S4PX6mxKg5u394QKrh_UtbsnDideciWMHzU)
 - [Deathbearbrown brief format](https://gist.github.com/deathbearbrown/552836bb525ebacdf0d91bf8231b3f99)
 - [Briefbox](http://briefbox.me/)
@@ -73,6 +73,6 @@ The audience for this document is anyone who has to implement, understand, or re
 
 ---
 
-## Learn More:
+## Learn More
 - [How to write a design brief](https://www.shopify.com/partners/blog/100022086-how-to-write-a-design-brief-to-keep-your-web-design-projects-on-track)
 - [Basics to create a good design brief](http://www.webdesignerdepot.com/2011/03/7-basics-to-create-a-good-design-brief/)
