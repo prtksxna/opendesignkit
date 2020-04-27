@@ -1,3 +1,11 @@
+.site__title a {
+  padding-top: 2.2rem;
+}
+
+.btn--nav-main {
+  top: 2.2rem;
+}
+
 .page__teaser {
   font-style: italic;
 }
